@@ -1,0 +1,6 @@
+Name: Marquise Daye
+Date: December 21, 2017
+Section: SQQ
+
+1. The getTenDigitPhone enables the user to enter a 10 digit phone number. If they don’t enter a ten digit phone number or if the user dosen’t enter anything, it will prompt the user to enter it again. The findContactIndex takes the ten digit number that the user inserted and will search the program to find the contact with the number. This benefits the program by verifying that the user enters 10 digits that will exist in the program. 
+2. I learned a lot of new mechanics in Assignment 2. The method I learned the most from this Assignment was storing information to different contacts and accessing those contacts through functions such as deleteContact or updateContact. These functions required me to take the cell phone they entered into the system and display that the program found the contact to them. From there, the program asks if they want to update the phone number or delete it. It was confusing and difficult to program this concept at first however, I understood what to do when coding further into the program.

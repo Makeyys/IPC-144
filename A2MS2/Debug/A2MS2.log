@@ -1,0 +1,9 @@
+﻿  contacts.c
+  contactHelpers.c
+c:\users\mbday\onedrive\seneca college\semester 1\ipc 144 (introduction to programming using c)\assignments\a2ms2\contacthelpers.c(87): warning C4027: function declared without formal parameter list
+  a2ms2.c
+c:\users\mbday\onedrive\seneca college\semester 1\ipc 144 (introduction to programming using c)\assignments\a2ms2\a2ms2.c(56): warning C4087: 'getIntInRange': declared with 'void' parameter list
+c:\users\mbday\onedrive\seneca college\semester 1\ipc 144 (introduction to programming using c)\assignments\a2ms2\a2ms2.c(61): warning C4013: 'getContact' undefined; assuming extern returning int
+  Generating Code...
+  A2MS2.vcxproj -> C:\Users\mbday\OneDrive\Seneca College\Semester 1\IPC 144 (Introduction to Programming Using C)\Assignments\A2MS2\Debug\A2MS2.exe
+  A2MS2.vcxproj -> C:\Users\mbday\OneDrive\Seneca College\Semester 1\IPC 144 (Introduction to Programming Using C)\Assignments\A2MS2\Debug\A2MS2.pdb (Partial PDB)

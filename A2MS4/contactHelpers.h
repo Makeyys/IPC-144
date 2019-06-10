@@ -1,0 +1,114 @@
+/* ------------------------------------------------------------------
+Name:				Marquise Daye
+Student number:		102174174
+Email:				mdaye1@myseneca.ca
+Section:			SQQ
+Date:				December 15, 2017
+---------------------------------------------------------------------
+Assignment: 2
+Milestone:  3
+---------------------------------------------------------------------
+Description: This header file modularizes general helper functions to
+help reduce redundant coding for common repetative tasks.
+---------------------------------------------------------------------*/
+
+
+// Hint:  This header file now has functions with parameters referring to 
+//        the struct Contact type so be sure to include the contacts.h header:
+
+#include "contacts.h"
+//------------------------------------------------------
+// Function Prototypes
+//------------------------------------------------------
+
+// +-------------------------------------------------+
+// | NOTE:  Copy/Paste your Assignment-2 Milestone-2 |
+// |        function prototypes below...             |
+// +-------------------------------------------------+
+
+// Clear the standard input buffer
+// clearKeyboard:
+
+void clearKeyboard(void);
+
+// pause:
+
+void pause(void);
+
+// getInt:
+
+int getInt(void);
+
+// getIntInRange:
+
+int getIntInRange(int, int);
+
+// yes:
+
+int yes(void);
+
+// menu:
+
+int menu(void);
+
+// ContactManagerSystem:
+
+void ContactManagerSystem(void);
+
+// +-------------------------------------------------+
+// | ====== Assignment 2 | Milestone 3 =======       |
+// +-------------------------------------------------+
+// | Put new function prototypes below...            |
+// +-------------------------------------------------+
+
+// Generic function to get a ten-digit phone number (provided for you)
+void getTenDigitPhone(char[11]);
+
+// findContactIndex (provided for you)
+int findContactIndex(const struct Contact contact[], int, const char[]);
+
+
+// displayContactHeader
+// put function prototype here:
+
+void displayContactHeader(void);
+
+// displayContactFooter:
+// put function prototype here:
+
+void displayContactFooter(int);
+
+// displayContact:
+// put function prototype here:
+
+void displayContact(const struct Contact*);
+
+// displayContacts:
+// put function prototype here:
+
+void displayContacts(const struct Contact contact[], int);
+
+// searchContacts:
+// put function prototype here:
+
+void searchContacts(const struct Contact  contact[], int);
+
+// addContact:
+// put function prototype here:
+
+void addContact(struct Contact contact[], int);
+
+// updateContact:
+// put function prototype here:
+
+void updateContact(struct Contact contact[], int);
+
+// deleteContact:
+// put function prototype here:
+
+void deleteContact(struct Contact contact[], int);
+
+// sortContacts:
+// put function prototype here:
+
+void sortContacts(struct Contact contact[], int);

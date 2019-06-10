@@ -1,0 +1,19 @@
+Name: Marquise Daye
+Student ID: 102174174
+Section: SQQ
+Date: December 13, 2017
+
+1. In 3 or 4 sentences explain the term “function” and briefly discuss the need for functions in any language?
+Functions enable the user to break down their code into smaller, organized subsections. These subsections can be called upon to perform their individual tasks when assigned. Functions provide the user to improve the user’s overall performance and readability when coding. It is well known for the efficiency in variable usage in a program and allows the user to test the program function by function. 
+This is how you declare a function:
+Function function_name {
+….
+}
+Or 
+Function_name() {
+….
+}
+
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module?
+I believe that the helper functions are in a different module then the rest was to give the program some organization. Instead of having many functions in one file, we distinguish the functions into different folders to keep them organized and provide easy access when requested. 
+
