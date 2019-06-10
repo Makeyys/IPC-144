@@ -1,0 +1,6 @@
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+The arrays have to declared to hold 10 because the maximum amount of days is 10, which means that the program is supposed to hold 10 in case the user enters 10 days in the input.
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays?
+Some disadvantages of matching arrays are that you must declare how many elements are to be stored in an array. Some advantages of matching arrays are that it is used to represent multiple data information in the same type with one name. 
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+I felt that the at home portion of the workshop was just right. It wasn’t too hard and it wasn’t too easy. I think that this workshop used most of the concepts that we have covered so far in this course. 
