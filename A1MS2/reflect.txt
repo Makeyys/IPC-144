@@ -1,0 +1,8 @@
+Name: Marquise Daye
+Student ID: 102174174
+Section: SQQ
+Date: November 27, 2017
+
+1. I think this is the most efficient way for a user to add required information to each data field. We have used a structure with helps to store and access the information better and we have set word restrictions that the user can’t exceed or else the program wont store that information. 
+
+2. A C string is required to store up to 25 characters must be capable of storing 26 characters because it is a zero-based meaning which means that the first element is always 0. In result, we must add another element to the C string. 

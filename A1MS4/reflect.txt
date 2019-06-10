@@ -1,0 +1,8 @@
+Name: Marquise Daye
+Student ID: 102174174
+Section: SQQ
+Date: December 4, 2017
+
+1) I think this assignment wanted me to code a struct, Contacts, that holds three other structs as data members to further organize the code. This can lead to storing more than one kind of contact in a program. For example, in the last workshop with the employee ID, salary and age, I believe that this method would help organize and store the information better. 
+2) I believe the most difficult part of this assignment was in milestone 2 where we have to store the input of the user’s information. An example is the user’s postal code, we have to make sure to store the code with the space included in it. I was unsure of a way to store the user’s input up to where they press enter. I believe by completing this assignment, I now know more about how to store and organize when programming a user input and output system. 
+3) It did not take me long to complete Milestone 4. The coding for a1ms4.c and the contacts.c did not take me long to do. I believe that it took me a day or two to complete it.
