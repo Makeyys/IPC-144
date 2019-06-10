@@ -1,0 +1,5 @@
+﻿  cashRegister.c
+c:\users\mbday\onedrive\seneca college\semester 1\ipc 144 (introduction to programming using c)\workshops\week 3\workshop 2\at home\cashregister.c(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mbday\onedrive\seneca college\semester 1\ipc 144 (introduction to programming using c)\workshops\week 3\workshop 2\at home\cashregister.c(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  At Home.vcxproj -> C:\Users\mbday\OneDrive\Seneca College\Semester 1\IPC 144 (Introduction to Programming Using C)\Workshops\Week 3\Workshop 2\At Home\Debug\At Home.exe
+  At Home.vcxproj -> C:\Users\mbday\OneDrive\Seneca College\Semester 1\IPC 144 (Introduction to Programming Using C)\Workshops\Week 3\Workshop 2\At Home\Debug\At Home.pdb (Partial PDB)

@@ -1,0 +1,28 @@
+Name: Marquise Daye 
+Section: SQQ
+Date: Sept 28, 2017
+Student #: 102174174
+
+1)	Name all the iteration constructs.
+
+The three iterations used in my code was while, do while and for
+
+2)	In two or three sentences explain the difference between a “do while” and a “while” loop?
+
+A while statement executes the sequence when the code is true however, it will not run the sequence if 
+the sequence is false. 
+
+A do while statement executes the sequence once and continues to run the program as long as the 
+condition is true. If the condition is false, it will exit the loop and display an error message until the 
+sequence is found true. 
+
+A for statement breaks down it’s initialization, change and condition sections by a semi colon. This 
+statement is almost like a while statement, it will repeat its sequence only when the condition is true.
+
+3)	In two or three sentences explain what is meant by the term conditional expression?
+
+Conditional Expressions is a construct in which the programmer can create alternate paths that the user 
+can encounter based on their condition. An example other than iteration constructs is if statements. If 
+the user does not meet a condition on a if statement, it will bring the user into another section of the 
+code. 
+

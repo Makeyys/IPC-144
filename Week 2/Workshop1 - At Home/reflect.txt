@@ -1,0 +1,1 @@
+In the in-lab, I learned how to properly introduce my projects when handing in code. I also learned the steps into handing in code in Secure Shell/ Putty and WinSCP. In the at-home lab, I learned the code command to make the program print text on a new line. While doing this, I continued to practice my commenting on the code.

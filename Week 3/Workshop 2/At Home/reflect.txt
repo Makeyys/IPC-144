@@ -1,0 +1,8 @@
+Name: Marquise Daye
+Section: SQQ
+Desc: At Home Reflection
+
+1. The most important thing I learned this week was the use of modulus combined with integer values and how I can use them together to create a program. I also learned and gained an insight on how to covert between float and integer values that I believe will play a big role for me in the future. 
+2. You must add 0.005 when calculating GTS owing because it takes 1.1284 and helps the program to round the GST to 1.13 easier.
+3. The result of a casting brand is the conversion of one operand to another or converting one expression to another.
+4. I believe that I was required to use the modulus operator in this workshop because in languages such as C++ and Java, the modulus operator is used frequently in the math sections of programming to calculate the remainder. This is very important in the business aspect of coding.  
